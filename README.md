@@ -5,7 +5,7 @@ This project investigates how environmental and temporal factors influence daily
 ## Project Documentation
 For a detailed analysis of the feature engineering process, mathematical derivations, and error metrics, please refer to the full report:
 
-### [Link to Full Project Report (PDF)](https://emiliowm.github.io/Bike-Prediction-About.pdf)
+### [Link to Full Project Report (PDF)](https://emiliowm.github.io/Bike-Sharing-Linear-Regression/Bike-Prediction-About.pdf)
 
 ---
 
